@@ -1,5 +1,5 @@
 import pandas as pd
-import matplotlib.pyplot as plt
+from pyecharts import Line,Overlap
 #显示所有列
 pd.set_option('display.max_columns', None)
 #显示所有行
@@ -13,11 +13,18 @@ df1 = pd.DataFrame({'Date' : df['trade_date'], 'Open' : df['open'],
                     'Adj Close':df['close']})
 #调整时间格式
 df1['Date']=df1['Date'].apply(str)
-df1['Date']=df1['Date'].map(lambda x :'%s-%s-%s'%(x[0:4],x[4:6],x[6:8]))
+df1['Date']=df1['Date'].map(lambda x :'%s/%s/%s'%(x[0:4],x[4:6],x[6:8]))
+
+#倒序排列
+df1=df1.sort_index(ascending=False)
+
 print(df1)
-fig=plt.figure()
-ax1=fig.add_subplot(111)
-ax1.plot(df1.Date,df1.Volume)
-ax2=ax1.twinx()
-ax2.plot(df1.Date,df1.Close,'r')
-plt.show()
+line1 =Line('折线图',background_color = 'white',title_text_size = 25)
+line2 =Line('折线图',background_color = 'white',title_text_size = 25)
+line1.add('收盘价',df1.Date,df1.Close, is_datazoom_show=True)
+line2.add('成交量',df1.Date,df1.Volume, is_datazoom_show=True)
+overlap = Overlap()
+overlap.add(line1)
+overlap.add(line2,is_add_yaxis=True,yaxis_index=1)
+overlap.render()
+overlap.render(path = 'D:\\折线图.html')
