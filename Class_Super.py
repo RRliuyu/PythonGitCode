@@ -1,7 +1,7 @@
 from pycallgraph import PyCallGraph
 from pycallgraph.output import GraphvizOutput
 from pycallgraph import Config
-config = Config(max_depth=10)
+config = Config(max_depth=100)
 graphviz = GraphvizOutput(output_file=r'trace_detail.png')
 with PyCallGraph(output=graphviz,config=config):
     class A(object):

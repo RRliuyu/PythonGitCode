@@ -2,14 +2,23 @@
 <project version="4">
   <component name="BookmarkManager">
     <bookmark url="file://$PROJECT_DIR$/../pyalgotrade/tsfeed_test1.py" line="51" mnemonic="8" />
+    <bookmark url="file://$PROJECT_DIR$/../pyalgotrade/trade.py" line="92" mnemonic="2" />
   </component>
   <component name="ChangeListManager">
     <list default="true" id="2501c25a-6237-49a6-a062-9a7a5bc7995e" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/volume_price_pyechart.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/New_pyechart_KLine.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pyalgotrade_event_simulation1.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pyechart_test1.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/test100.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/test99.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/version.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Tushare_jiaoyi.py" beforeDir="false" afterPath="$PROJECT_DIR$/Tushare_jiaoyi.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/test2.py" beforeDir="false" afterPath="$PROJECT_DIR$/test2.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Class_Super.py" beforeDir="false" afterPath="$PROJECT_DIR$/Class_Super.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Event_Listen_Register_Dispatcher.py" beforeDir="false" afterPath="$PROJECT_DIR$/Event_Listen_Register_Dispatcher.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/test.py" beforeDir="false" afterPath="$PROJECT_DIR$/test.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/test1.py" beforeDir="false" afterPath="$PROJECT_DIR$/test1.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/trace_detail.png" beforeDir="false" afterPath="$PROJECT_DIR$/trace_detail.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/volume_price_pyechart.py" beforeDir="false" afterPath="$PROJECT_DIR$/volume_price_pyechart.py" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -18,61 +27,73 @@
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
   <component name="CoverageDataManager">
-    <SUITE FILE_PATH="coverage/PythonGitCode$test2.coverage" NAME="test2 Coverage Results" MODIFIED="1558233260383" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/PythonGitCode$PythonCodeRuntime.coverage" NAME="PythonCodeRuntime Coverage Results" MODIFIED="1547272229248" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
-    <SUITE FILE_PATH="coverage/PythonGitCode$volume_price_pyechart.coverage" NAME="volume_price_pyechart Coverage Results" MODIFIED="1558844866466" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
-    <SUITE FILE_PATH="coverage/PythonGitCode$Class_Super.coverage" NAME="Class_Super Coverage Results" MODIFIED="1558098044640" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
-    <SUITE FILE_PATH="coverage/PythonGitCode$bb.coverage" NAME="bb Coverage Results" MODIFIED="1546702803278" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
-    <SUITE FILE_PATH="coverage/PythonGitCode$simple_test1.coverage" NAME="simple_test1 Coverage Results" MODIFIED="1558233444291" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/../pyalgotrade" />
-    <SUITE FILE_PATH="coverage/PythonGitCode$Class_as_parameter.coverage" NAME="Class_as_parameter Coverage Results" MODIFIED="1558098029054" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
-    <SUITE FILE_PATH="coverage/PythonGitCode$Get_Tushare_To_CSV.coverage" NAME="Get_Tushare_To_CSV Coverage Results" MODIFIED="1558844765398" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/../pyalgotrade" />
+    <SUITE FILE_PATH="coverage/PythonGitCode$trade_min.coverage" NAME="trade_min Coverage Results" MODIFIED="1566171445480" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/../pyalgotrade" />
+    <SUITE FILE_PATH="coverage/PythonGitCode$test99.coverage" NAME="test99 Coverage Results" MODIFIED="1561729255433" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/PythonGitCode$volume_price_pyechart.coverage" NAME="volume_price_pyechart Coverage Results" MODIFIED="1564500117264" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/PythonGitCode$pyechart_test1.coverage" NAME="pyechart_test1 Coverage Results" MODIFIED="1565966009948" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/PythonGitCode$simple_test1.coverage" NAME="simple_test1 Coverage Results" MODIFIED="1564797611936" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/../pyalgotrade" />
+    <SUITE FILE_PATH="coverage/PythonGitCode$Get_Tushare_To_CSV_min_pro_bar.coverage" NAME="Get_Tushare_To_CSV_min_pro_bar Coverage Results" MODIFIED="1566131373941" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/../pyalgotrade" />
+    <SUITE FILE_PATH="coverage/PythonGitCode$Get_Tushare_To_CSV.coverage" NAME="Get_Tushare_To_CSV Coverage Results" MODIFIED="1564761036672" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/../pyalgotrade" />
     <SUITE FILE_PATH="coverage/PythonGitCode$fff.coverage" NAME="fff Coverage Results" MODIFIED="1546703066276" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/../pyalgotrade" />
-    <SUITE FILE_PATH="coverage/PythonGitCode$test.coverage" NAME="test Coverage Results" MODIFIED="1547728570405" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
-    <SUITE FILE_PATH="coverage/PythonGitCode$tsfeed_test1.coverage" NAME="tsfeed_test1 Coverage Results" MODIFIED="1547122466493" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/../pyalgotrade" />
-    <SUITE FILE_PATH="coverage/PythonGitCode$stratanalyzer_all_put.coverage" NAME="stratanalyzer_all_put Coverage Results" MODIFIED="1558233286315" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/../pyalgotrade" />
-    <SUITE FILE_PATH="coverage/PythonGitCode$Pyalgotrade_strategy_test1.coverage" NAME="Pyalgotrade_strategy_test1 Coverage Results" MODIFIED="1558233433172" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/../pyalgotrade" />
+    <SUITE FILE_PATH="coverage/PythonGitCode$shares_list.coverage" NAME="shares_list Coverage Results" MODIFIED="1563493841413" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/../pyalgotrade" />
+    <SUITE FILE_PATH="coverage/PythonGitCode$read_write_csv_test.coverage" NAME="read_write_csv_test Coverage Results" MODIFIED="1563551085103" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/../pyalgotrade" />
+    <SUITE FILE_PATH="coverage/PythonGitCode$trade_day.coverage" NAME="trade_day Coverage Results" MODIFIED="1569506876088" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/../pyalgotrade" />
+    <SUITE FILE_PATH="coverage/PythonGitCode$tsfeed_test1.coverage" NAME="tsfeed_test1 Coverage Results" MODIFIED="1564407915683" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/../pyalgotrade" />
     <SUITE FILE_PATH="coverage/PythonGitCode$test1.coverage" NAME="test1 Coverage Results" MODIFIED="1558232267963" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/PythonGitCode$test3.coverage" NAME="test3 Coverage Results" MODIFIED="1566728647253" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/../pyalgotrade" />
     <SUITE FILE_PATH="coverage/PythonGitCode$test2__1_.coverage" NAME="test2 (1) Coverage Results" MODIFIED="1547121903980" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/PythonGitCode$download_all_shares_60min.coverage" NAME="download_all_shares_60min Coverage Results" MODIFIED="1566139458567" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/../pyalgotrade" />
+    <SUITE FILE_PATH="coverage/PythonGitCode$test1__1_.coverage" NAME="test1 (1) Coverage Results" MODIFIED="1547121928394" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/../pyalgotrade" />
+    <SUITE FILE_PATH="coverage/PythonGitCode$plotter.coverage" NAME="plotter Coverage Results" MODIFIED="1564798804756" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="E:/Programs/Python/Python37-32/Lib/site-packages/pyalgotrade" />
+    <SUITE FILE_PATH="coverage/PythonGitCode$pyalgotrade_event_simulation1.coverage" NAME="pyalgotrade_event_simulation1 Coverage Results" MODIFIED="1564801009048" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/PythonGitCode$test2.coverage" NAME="test2 Coverage Results" MODIFIED="1558233260383" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/PythonGitCode$backtesting.coverage" NAME="backtesting Coverage Results" MODIFIED="1564843367919" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="E:/Programs/Python/Python37-32/Lib/site-packages/pyalgotrade/broker" />
+    <SUITE FILE_PATH="coverage/PythonGitCode$global_options.coverage" NAME="global_options Coverage Results" MODIFIED="1565014958892" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="E:/Programs/Python/Python37-32/Lib/site-packages/pyecharts/options" />
+    <SUITE FILE_PATH="coverage/PythonGitCode$Class_Super.coverage" NAME="Class_Super Coverage Results" MODIFIED="1558098044640" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/PythonGitCode$trade.coverage" NAME="trade Coverage Results" MODIFIED="1564757844764" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/../pyalgotrade" />
+    <SUITE FILE_PATH="coverage/PythonGitCode$bb.coverage" NAME="bb Coverage Results" MODIFIED="1546702803278" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/PythonGitCode$download_all_shares_data.coverage" NAME="download_all_shares_data Coverage Results" MODIFIED="1569502562261" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/../pyalgotrade" />
+    <SUITE FILE_PATH="coverage/PythonGitCode$trade_day_html.coverage" NAME="trade_day_html Coverage Results" MODIFIED="1568719015109" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/../pyalgotrade" />
+    <SUITE FILE_PATH="coverage/PythonGitCode$version.coverage" NAME="version Coverage Results" MODIFIED="1564673463201" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/PythonGitCode$Class_as_parameter.coverage" NAME="Class_as_parameter Coverage Results" MODIFIED="1564757020911" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/PythonGitCode$mean.coverage" NAME="mean Coverage Results" MODIFIED="1562492855823" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/../pyalgotrade" />
+    <SUITE FILE_PATH="coverage/PythonGitCode$test.coverage" NAME="test Coverage Results" MODIFIED="1547728570405" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/PythonGitCode$volume_price_matplotlib.coverage" NAME="volume_price_matplotlib Coverage Results" MODIFIED="1558845290527" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/PythonGitCode$stratanalyzer_all_put.coverage" NAME="stratanalyzer_all_put Coverage Results" MODIFIED="1564407939653" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/../pyalgotrade" />
+    <SUITE FILE_PATH="coverage/PythonGitCode$Mytrade1.coverage" NAME="Mytrade1 Coverage Results" MODIFIED="1564757277299" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/../pyalgotrade" />
+    <SUITE FILE_PATH="coverage/PythonGitCode$Pyalgotrade_strategy_test1.coverage" NAME="Pyalgotrade_strategy_test1 Coverage Results" MODIFIED="1566729356759" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/../pyalgotrade" />
     <SUITE FILE_PATH="coverage/PythonGitCode$API_TEST1.coverage" NAME="API_TEST1 Coverage Results" MODIFIED="1558230728814" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/../pyalgotrade" />
     <SUITE FILE_PATH="coverage/PythonGitCode$Tushare_jiaoyi.coverage" NAME="Tushare_jiaoyi Coverage Results" MODIFIED="1558833151859" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
-    <SUITE FILE_PATH="coverage/PythonGitCode$test1__1_.coverage" NAME="test1 (1) Coverage Results" MODIFIED="1547121928394" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/../pyalgotrade" />
     <SUITE FILE_PATH="coverage/PythonGitCode$technical_test1.coverage" NAME="technical_test1 Coverage Results" MODIFIED="1558233462153" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/../pyalgotrade" />
-    <SUITE FILE_PATH="coverage/PythonGitCode$Event_Listen_Register_Dispatcher.coverage" NAME="Event_Listen_Register_Dispatcher Coverage Results" MODIFIED="1558098052373" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/PythonGitCode$MyStrategy1.coverage" NAME="MyStrategy1 Coverage Results" MODIFIED="1564757149791" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/../pyalgotrade" />
+    <SUITE FILE_PATH="coverage/PythonGitCode$test100.coverage" NAME="test100 Coverage Results" MODIFIED="1564674705613" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/PythonGitCode$Event_Listen_Register_Dispatcher.coverage" NAME="Event_Listen_Register_Dispatcher Coverage Results" MODIFIED="1564800672149" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/PythonGitCode$New_pyechart_KLine.coverage" NAME="New_pyechart_KLine Coverage Results" MODIFIED="1564669128049" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/PythonGitCode$tsfeed.coverage" NAME="tsfeed Coverage Results" MODIFIED="1546741960906" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="E:/Programs/Python/Python37-32/Lib/site-packages/pyalgotrade/barfeed" />
+    <SUITE FILE_PATH="coverage/PythonGitCode$Tushare_Get_API_Test.coverage" NAME="Tushare_Get_API_Test Coverage Results" MODIFIED="1566813374179" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/../pyalgotrade" />
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/Tushare_jiaoyi.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="415">
-              <caret line="32" column="13" selection-start-line="32" selection-start-column="13" selection-end-line="32" selection-end-column="16" />
-              <folding>
-                <element signature="e#0#19#0" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
       <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/volume_price_pyechart.py">
+        <entry file="file://$PROJECT_DIR$/../pyalgotrade/trade_day.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="358">
-              <caret line="24" column="58" selection-start-line="24" selection-start-column="58" selection-end-line="24" selection-end-column="58" />
+            <state relative-caret-position="513">
+              <caret line="78" column="84" lean-forward="true" selection-start-line="78" selection-start-column="84" selection-end-line="78" selection-end-column="84" />
               <folding>
-                <element signature="e#0#19#0" expanded="true" />
+                <element signature="e#0#32#0" expanded="true" />
               </folding>
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/../pyalgotrade/Get_Tushare_To_CSV.py">
+        <entry file="file://$PROJECT_DIR$/../pyalgotrade/download_all_shares_data.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="171">
-              <caret line="9" column="54" selection-start-line="9" selection-start-column="54" selection-end-line="9" selection-end-column="54" />
+            <state relative-caret-position="380">
+              <caret line="23" column="9" selection-start-line="23" selection-start-column="9" selection-end-line="23" selection-end-column="9" />
               <folding>
-                <element signature="e#0#20#0" expanded="true" />
+                <element signature="e#0#19#0" expanded="true" />
               </folding>
             </state>
           </provider>
@@ -91,6 +112,18 @@
     <findStrings>
       <find>combine</find>
       <find>getInstrumentSubplot</find>
+      <find>cash</find>
+      <find>getsmaVol</find>
+      <find>onBars</find>
+      <find>axis</find>
+      <find>time</find>
+      <find>line</find>
+      <find>onbars</find>
+      <find>buyda</find>
+      <find>type</find>
+      <find>vol</find>
+      <find>page</find>
+      <find>buyday</find>
     </findStrings>
   </component>
   <component name="Git.Settings">
@@ -105,33 +138,57 @@
         <option value="$PROJECT_DIR$/vvv.py" />
         <option value="E:/Programs/Python/Python37-32/Lib/site-packages/pyalgotrade/barfeed/csvfeed.py" />
         <option value="E:/Programs/Python/Python37-32/Lib/site-packages/pyalgotrade/barfeed/tsfeed.py" />
-        <option value="$PROJECT_DIR$/test1.py" />
         <option value="$PROJECT_DIR$/Get_Tushare_To_CSV.py" />
         <option value="$PROJECT_DIR$/pycallgraph_test.py" />
-        <option value="$PROJECT_DIR$/Class_Super.py" />
         <option value="$PROJECT_DIR$/../pyalgotrade/tsfeed_test1.py" />
         <option value="$PROJECT_DIR$/PythonCodeRuntime.py" />
         <option value="$PROJECT_DIR$/Class_as_parameter.py" />
-        <option value="$PROJECT_DIR$/test.py" />
-        <option value="$PROJECT_DIR$/../pyalgotrade/Pyalgotrade_strategy_test1.py" />
         <option value="$PROJECT_DIR$/../pyalgotrade/technical_test1.py" />
         <option value="$PROJECT_DIR$/../pyalgotrade/simple_test1.py" />
         <option value="$PROJECT_DIR$/../pyalgotrade/test1.py" />
         <option value="$PROJECT_DIR$/../pyalgotrade/stratanalyzer_all_put.py" />
         <option value="$PROJECT_DIR$/../pyalgotrade/API_TEST1.py" />
         <option value="$PROJECT_DIR$/../pyalgotrade/test2.py" />
-        <option value="$PROJECT_DIR$/test2.py" />
         <option value="$PROJECT_DIR$/Tushare_jiaoyi.py" />
-        <option value="$PROJECT_DIR$/../pyalgotrade/Get_Tushare_To_CSV.py" />
+        <option value="$PROJECT_DIR$/test1.py" />
+        <option value="$PROJECT_DIR$/volume_price_matplotlib.py" />
+        <option value="$PROJECT_DIR$/test99.py" />
+        <option value="$PROJECT_DIR$/test.py" />
+        <option value="$PROJECT_DIR$/version.py" />
+        <option value="$PROJECT_DIR$/../pyalgotrade/mean.py" />
+        <option value="$PROJECT_DIR$/../pyalgotrade/shares_list.py" />
+        <option value="$PROJECT_DIR$/../pyalgotrade/read_write_csv_test.py" />
         <option value="$PROJECT_DIR$/volume_price_pyechart.py" />
+        <option value="$PROJECT_DIR$/test2.py" />
+        <option value="$PROJECT_DIR$/New_pyechart_KLine.py" />
+        <option value="$PROJECT_DIR$/test100.py" />
+        <option value="$PROJECT_DIR$/../pyalgotrade/Mytrade1.py" />
+        <option value="$PROJECT_DIR$/../pyalgotrade/MyStrategy1.py" />
+        <option value="$PROJECT_DIR$/../pyalgotrade/trade.py" />
+        <option value="$PROJECT_DIR$/../pyalgotrade/Get_Tushare_To_CSV.py" />
+        <option value="E:/Programs/Python/Python37-32/Lib/site-packages/pyalgotrade/plotter.py" />
+        <option value="$PROJECT_DIR$/Class_Super.py" />
+        <option value="$PROJECT_DIR$/pyalgotrade_event_simulation1.py" />
+        <option value="$PROJECT_DIR$/Event_Listen_Register_Dispatcher.py" />
+        <option value="$PROJECT_DIR$/pyechart_test1.py" />
+        <option value="$PROJECT_DIR$/../pyalgotrade/Get_Tushare_To_CSV_min_pro_bar.py" />
+        <option value="$PROJECT_DIR$/../pyalgotrade/trade_min.py" />
+        <option value="$PROJECT_DIR$/../pyalgotrade/Pyalgotrade_strategy_test1.py" />
+        <option value="$PROJECT_DIR$/../pyalgotrade/test3.py" />
+        <option value="$PROJECT_DIR$/../pyalgotrade/download_all_shares_60min.py" />
+        <option value="$PROJECT_DIR$/../pyalgotrade/Tushare_Get_API_Test.py" />
+        <option value="$PROJECT_DIR$/../pyalgotrade/trade_day_html.py" />
+        <option value="$PROJECT_DIR$/../pyalgotrade/OneKey_Trade_Day.py" />
+        <option value="$PROJECT_DIR$/../pyalgotrade/download_all_shares_data.py" />
+        <option value="$PROJECT_DIR$/../pyalgotrade/trade_day.py" />
       </list>
     </option>
   </component>
   <component name="ProjectFrameBounds" extendedState="6">
-    <option name="x" value="8" />
-    <option name="y" value="17" />
-    <option name="width" value="1080" />
-    <option name="height" value="549" />
+    <option name="x" value="-8" />
+    <option name="y" value="-8" />
+    <option name="width" value="1936" />
+    <option name="height" value="1056" />
   </component>
   <component name="ProjectView">
     <navigator proportions="" version="1">
@@ -167,7 +224,7 @@
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
     <property name="nodejs_npm_path_reset_for_default_project" value="true" />
-    <property name="settings.editor.selected.configurable" value="vcs.Git" />
+    <property name="settings.editor.selected.configurable" value="settings.github" />
   </component>
   <component name="RunDashboard">
     <option name="ruleStates">
@@ -181,8 +238,8 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Python.volume_price_pyechart">
-    <configuration name="Get_Tushare_To_CSV" type="PythonConfigurationType" factoryName="Python" temporary="true">
+  <component name="RunManager" selected="Python.trade_day">
+    <configuration name="Pyalgotrade_strategy_test1" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="PythonGitCode" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -195,7 +252,7 @@
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/../pyalgotrade/Get_Tushare_To_CSV.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/../pyalgotrade/Pyalgotrade_strategy_test1.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -204,29 +261,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="Tushare_jiaoyi" type="PythonConfigurationType" factoryName="Python" temporary="true">
-      <module name="PythonGitCode" />
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Tushare_jiaoyi.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <option name="MODULE_MODE" value="false" />
-      <option name="REDIRECT_INPUT" value="false" />
-      <option name="INPUT_FILE" value="" />
-      <method v="2" />
-    </configuration>
-    <configuration name="simple_test1" type="PythonConfigurationType" factoryName="Python" temporary="true">
+    <configuration name="Tushare_Get_API_Test" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="PythonGitCode" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -239,7 +274,7 @@
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/../pyalgotrade/simple_test1.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/../pyalgotrade/Tushare_Get_API_Test.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -248,7 +283,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="technical_test1" type="PythonConfigurationType" factoryName="Python" temporary="true">
+    <configuration name="download_all_shares_data" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="PythonGitCode" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -261,7 +296,7 @@
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/../pyalgotrade/technical_test1.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/../pyalgotrade/download_all_shares_data.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -270,7 +305,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="volume_price_pyechart" type="PythonConfigurationType" factoryName="Python" temporary="true">
+    <configuration name="trade_day" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="PythonGitCode" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -278,12 +313,34 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/../pyalgotrade" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/volume_price_pyechart.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/../pyalgotrade/trade_day.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="trade_day_html" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="PythonGitCode" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/../pyalgotrade" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/../pyalgotrade/trade_day_html.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -293,19 +350,19 @@
       <method v="2" />
     </configuration>
     <list>
-      <item itemvalue="Python.simple_test1" />
-      <item itemvalue="Python.technical_test1" />
-      <item itemvalue="Python.Tushare_jiaoyi" />
-      <item itemvalue="Python.Get_Tushare_To_CSV" />
-      <item itemvalue="Python.volume_price_pyechart" />
+      <item itemvalue="Python.trade_day" />
+      <item itemvalue="Python.Tushare_Get_API_Test" />
+      <item itemvalue="Python.Pyalgotrade_strategy_test1" />
+      <item itemvalue="Python.download_all_shares_data" />
+      <item itemvalue="Python.trade_day_html" />
     </list>
     <recent_temporary>
       <list>
-        <item itemvalue="Python.volume_price_pyechart" />
-        <item itemvalue="Python.Get_Tushare_To_CSV" />
-        <item itemvalue="Python.Tushare_jiaoyi" />
-        <item itemvalue="Python.technical_test1" />
-        <item itemvalue="Python.simple_test1" />
+        <item itemvalue="Python.trade_day" />
+        <item itemvalue="Python.download_all_shares_data" />
+        <item itemvalue="Python.trade_day_html" />
+        <item itemvalue="Python.Tushare_Get_API_Test" />
+        <item itemvalue="Python.Pyalgotrade_strategy_test1" />
       </list>
     </recent_temporary>
   </component>
@@ -354,7 +411,68 @@
       <workItem from="1558233004279" duration="461000" />
       <workItem from="1558260164162" duration="599000" />
       <workItem from="1558787001548" duration="671000" />
-      <workItem from="1558829159550" duration="6426000" />
+      <workItem from="1558829159550" duration="8651000" />
+      <workItem from="1558960789810" duration="3885000" />
+      <workItem from="1558967626452" duration="406000" />
+      <workItem from="1561728156161" duration="3094000" />
+      <workItem from="1562490698713" duration="665000" />
+      <workItem from="1562491408045" duration="634000" />
+      <workItem from="1562492078422" duration="65000" />
+      <workItem from="1562492452752" duration="1736000" />
+      <workItem from="1562681089631" duration="599000" />
+      <workItem from="1563202454066" duration="1764000" />
+      <workItem from="1563278113757" duration="7682000" />
+      <workItem from="1563365987828" duration="104000" />
+      <workItem from="1563366423910" duration="4532000" />
+      <workItem from="1563450661164" duration="9280000" />
+      <workItem from="1563493201841" duration="3430000" />
+      <workItem from="1563541392976" duration="7188000" />
+      <workItem from="1563628104332" duration="370000" />
+      <workItem from="1563636845990" duration="9107000" />
+      <workItem from="1563685184247" duration="6480000" />
+      <workItem from="1563805367045" duration="3921000" />
+      <workItem from="1563809346984" duration="1905000" />
+      <workItem from="1563891473285" duration="2074000" />
+      <workItem from="1563965358090" duration="9774000" />
+      <workItem from="1564060647760" duration="7540000" />
+      <workItem from="1564154213980" duration="2210000" />
+      <workItem from="1564291421609" duration="6522000" />
+      <workItem from="1564400737547" duration="5070000" />
+      <workItem from="1564490875285" duration="1723000" />
+      <workItem from="1564498673207" duration="7103000" />
+      <workItem from="1564581823573" duration="5656000" />
+      <workItem from="1564658472028" duration="13861000" />
+      <workItem from="1564704207903" duration="967000" />
+      <workItem from="1564754571120" duration="3500000" />
+      <workItem from="1564797492723" duration="19794000" />
+      <workItem from="1564877905323" duration="3869000" />
+      <workItem from="1565012885630" duration="6806000" />
+      <workItem from="1565093255769" duration="13894000" />
+      <workItem from="1565267347134" duration="7025000" />
+      <workItem from="1565867982011" duration="1643000" />
+      <workItem from="1565963027947" duration="2816000" />
+      <workItem from="1566047271489" duration="7226000" />
+      <workItem from="1566094852433" duration="13615000" />
+      <workItem from="1566473303458" duration="5368000" />
+      <workItem from="1566558178290" duration="4469000" />
+      <workItem from="1566575856405" duration="1821000" />
+      <workItem from="1566701981463" duration="1289000" />
+      <workItem from="1566724265460" duration="5006000" />
+      <workItem from="1566737330916" duration="5297000" />
+      <workItem from="1566810133179" duration="6293000" />
+      <workItem from="1566828055125" duration="982000" />
+      <workItem from="1566910084898" duration="1432000" />
+      <workItem from="1567077797030" duration="3529000" />
+      <workItem from="1568718968593" duration="8174000" />
+      <workItem from="1568805269218" duration="3186000" />
+      <workItem from="1569063852396" duration="5094000" />
+      <workItem from="1569123234326" duration="10459000" />
+      <workItem from="1569239823741" duration="4021000" />
+      <workItem from="1569328258430" duration="3217000" />
+      <workItem from="1569336709894" duration="1605000" />
+      <workItem from="1569411583558" duration="1830000" />
+      <workItem from="1569497044092" duration="3053000" />
+      <workItem from="1570298754755" duration="1449000" />
     </task>
     <task id="LOCAL-00001" summary="test">
       <created>1546701668893</created>
@@ -461,21 +579,28 @@
       <option name="project" value="LOCAL" />
       <updated>1558831091005</updated>
     </task>
-    <option name="localTasksCounter" value="16" />
+    <task id="LOCAL-00016" summary="bbbb">
+      <created>1558844967099</created>
+      <option name="number" value="00016" />
+      <option name="presentableId" value="LOCAL-00016" />
+      <option name="project" value="LOCAL" />
+      <updated>1558844967099</updated>
+    </task>
+    <option name="localTasksCounter" value="17" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="95669000" />
+    <option name="totallyTimeSpent" value="385003000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1936" height="1056" extended-state="6" />
     <layout>
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.14978679" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.20469083" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Favorites" order="2" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
-      <window_info anchor="bottom" id="Find" order="1" />
-      <window_info anchor="bottom" id="Run" order="2" visible="true" weight="0.35140997" />
+      <window_info anchor="bottom" id="Find" order="1" weight="0.329718" />
+      <window_info anchor="bottom" id="Run" order="2" weight="0.28633407" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.489154" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
@@ -489,7 +614,7 @@
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
       <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
-      <window_info anchor="right" id="SciView" order="3" visible="true" weight="0.41044775" />
+      <window_info anchor="right" id="SciView" order="3" visible="true" weight="0.065565035" />
       <window_info anchor="right" id="Database" order="4" />
     </layout>
   </component>
@@ -562,407 +687,225 @@
           <line>20</line>
           <option name="timeStamp" value="16" />
         </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://E:/Programs/Python/Python37-32/Lib/site-packages/pyecharts/options/__init__.py</url>
+          <line>2</line>
+          <option name="timeStamp" value="17" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/test100.py</url>
+          <option name="timeStamp" value="18" />
+        </line-breakpoint>
       </breakpoints>
     </breakpoint-manager>
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://E:/Programs/Python/Python37-32/Lib/site-packages/pycallgraph/output/output.py" />
-    <entry file="file://$PROJECT_DIR$/pycallgraph_test.py" />
-    <entry file="file://$PROJECT_DIR$/Get_Tushare_To_CSV.py" />
-    <entry file="uml://Python/Class_Super.A">
-      <provider selected="true" editor-type-id="UmlEditorProvider">
-        <state>
-          <ID>Python</ID>
-          <OriginalElement>Class_Super.A</OriginalElement>
-          <nodes>
-            <node x="" y="">Class_Super.A</node>
-            <node x="" y="">object</node>
-          </nodes>
-          <notes />
-          <edges />
-          <settings layout="Hierarchic Group" zoom="1.0" x="55.0" y="55.0" />
-          <SelectedNodes />
-          <Categories />
-          <SCOPE>All</SCOPE>
-        </state>
-      </provider>
+    <entry file="file://$PROJECT_DIR$/PythonCodeRuntime.py">
+      <provider selected="true" editor-type-id="text-editor" />
     </entry>
-    <entry file="uml://Python/#E:/PythonCode/PythonGitCode/Class_Super.py">
-      <provider selected="true" editor-type-id="UmlEditorProvider">
-        <state>
-          <ID>Python</ID>
-          <OriginalElement>#E:/PythonCode/PythonGitCode/Class_Super.py</OriginalElement>
-          <nodes>
-            <node x="" y="">Class_Super.D</node>
-            <node x="" y="">Class_Super.E</node>
-            <node x="" y="">object</node>
-            <node x="" y="">Class_Super.A</node>
-            <node x="" y="">Class_Super.B</node>
-            <node x="" y="">Class_Super.C</node>
-          </nodes>
-          <notes />
-          <edges />
-          <settings layout="Hierarchic Group" zoom="1.0" x="185.0" y="135.0" />
-          <SelectedNodes />
-          <Categories />
-          <SCOPE>All</SCOPE>
-        </state>
-      </provider>
-    </entry>
-    <entry file="uml://Python/tsfeed_test1.MyStrategy">
-      <provider selected="true" editor-type-id="UmlEditorProvider">
-        <state>
-          <ID>Python</ID>
-          <OriginalElement>tsfeed_test1.MyStrategy</OriginalElement>
-          <nodes>
-            <node x="" y="">pyalgotrade.strategy.BaseStrategy</node>
-            <node x="" y="">pyalgotrade.strategy.BacktestingStrategy</node>
-            <node x="" y="">object</node>
-            <node x="" y="">tsfeed_test1.MyStrategy</node>
-          </nodes>
-          <notes />
-          <edges />
-          <settings layout="Hierarchic Group" zoom="1.0" x="135.0" y="135.0" />
-          <SelectedNodes />
-          <Categories />
-          <SCOPE>All</SCOPE>
-        </state>
-      </provider>
-    </entry>
-    <entry file="uml://Python/pyalgotrade.bitcoincharts.barfeed.TradeBar">
-      <provider selected="true" editor-type-id="UmlEditorProvider">
-        <state>
-          <ID>Python</ID>
-          <OriginalElement>pyalgotrade.bitcoincharts.barfeed.TradeBar</OriginalElement>
-          <nodes>
-            <node x="" y="">pyalgotrade.bar.Bar</node>
-            <node x="" y="">object</node>
-            <node x="" y="">pyalgotrade.bitcoincharts.barfeed.TradeBar</node>
-          </nodes>
-          <notes />
-          <edges />
-          <settings layout="Hierarchic Group" zoom="1.0" x="141.0" y="95.0" />
-          <SelectedNodes />
-          <Categories>
-            <Category>Methods</Category>
-          </Categories>
-          <SCOPE>All</SCOPE>
-        </state>
-      </provider>
-    </entry>
-    <entry file="uml://Python/#E:/PythonCode/pyalgotrade/test1.py">
-      <provider selected="true" editor-type-id="UmlEditorProvider">
-        <state>
-          <ID>Python</ID>
-          <OriginalElement>#E:/PythonCode/pyalgotrade/test1.py</OriginalElement>
-          <nodes>
-            <node x="0.0" y="448.0">pyalgotrade.strategy.BaseStrategy</node>
-            <node x="189.5" y="1747.0">pyalgotrade.strategy.BacktestingStrategy</node>
-            <node x="232.5" y="1919.0">test1.MyStrategy</node>
-            <node x="211.5" y="0.0">object</node>
-          </nodes>
-          <notes />
-          <edges>
-            <edge source="pyalgotrade.strategy.BacktestingStrategy" target="pyalgotrade.strategy.BaseStrategy">
-              <point x="0.0" y="-61.0" />
-              <point x="0.0" y="624.5" />
-            </edge>
-            <edge source="test1.MyStrategy" target="pyalgotrade.strategy.BacktestingStrategy">
-              <point x="0.0" y="-38.0" />
-              <point x="0.0" y="61.0" />
-            </edge>
-            <edge source="pyalgotrade.strategy.BaseStrategy" target="object">
-              <point x="0.0" y="-624.5" />
-              <point x="0.0" y="199.0" />
-            </edge>
-          </edges>
-          <settings layout="Hierarchic Group" zoom="1.0" x="5.0" y="1109.0" />
-          <SelectedNodes>
-            <node>object</node>
-          </SelectedNodes>
-          <Categories>
-            <Category>Methods</Category>
-            <Category>Inner Classes</Category>
-          </Categories>
-          <SCOPE>All</SCOPE>
-        </state>
-      </provider>
-    </entry>
-    <entry file="uml://Python/test1.MyStrategy">
-      <provider selected="true" editor-type-id="UmlEditorProvider">
-        <state>
-          <ID>Python</ID>
-          <OriginalElement>test1.MyStrategy</OriginalElement>
-          <nodes>
-            <node x="0.0" y="564.0">pyalgotrade.strategy.BaseStrategy</node>
-            <node x="189.5" y="2117.0">pyalgotrade.strategy.BacktestingStrategy</node>
-            <node x="232.5" y="2313.0">test1.MyStrategy</node>
-            <node x="211.5" y="0.0">object</node>
-          </nodes>
-          <notes />
-          <edges>
-            <edge source="pyalgotrade.strategy.BacktestingStrategy" target="pyalgotrade.strategy.BaseStrategy">
-              <point x="0.0" y="-73.0" />
-              <point x="0.0" y="751.5" />
-            </edge>
-            <edge source="test1.MyStrategy" target="pyalgotrade.strategy.BacktestingStrategy">
-              <point x="0.0" y="-50.0" />
-              <point x="0.0" y="73.0" />
-            </edge>
-            <edge source="pyalgotrade.strategy.BaseStrategy" target="object">
-              <point x="0.0" y="-751.5" />
-              <point x="0.0" y="257.0" />
-            </edge>
-          </edges>
-          <settings layout="Hierarchic Group" zoom="1.0" x="5.0" y="687.0" />
-          <SelectedNodes>
-            <node>pyalgotrade.strategy.BaseStrategy</node>
-          </SelectedNodes>
-          <Categories>
-            <Category>Methods</Category>
-            <Category>Inner Classes</Category>
-            <Category>Fields</Category>
-          </Categories>
-          <SCOPE>All</SCOPE>
-        </state>
-      </provider>
-    </entry>
-    <entry file="uml://Python/#E:/PythonCode/pyalgotrade/Pyalgotrade_strategy_test1.py">
-      <provider selected="true" editor-type-id="UmlEditorProvider">
-        <state>
-          <ID>Python</ID>
-          <OriginalElement>#E:/PythonCode/pyalgotrade/Pyalgotrade_strategy_test1.py</OriginalElement>
-          <nodes>
-            <node x="" y="">pyalgotrade.strategy.BaseStrategy</node>
-            <node x="" y="">pyalgotrade.strategy.BacktestingStrategy</node>
-            <node x="" y="">object</node>
-            <node x="" y="">Pyalgotrade_strategy_test1.MyStrategy</node>
-          </nodes>
-          <notes />
-          <edges />
-          <settings layout="Hierarchic Group" zoom="1.0" x="135.0" y="267.0" />
-          <SelectedNodes />
-          <Categories>
-            <Category>Methods</Category>
-            <Category>Inner Classes</Category>
-            <Category>Fields</Category>
-          </Categories>
-          <SCOPE>All</SCOPE>
-        </state>
-      </provider>
-    </entry>
-    <entry file="uml://Python/Pyalgotrade_strategy_test1.MyStrategy">
-      <provider selected="true" editor-type-id="UmlEditorProvider">
-        <state>
-          <ID>Python</ID>
-          <OriginalElement>Pyalgotrade_strategy_test1.MyStrategy</OriginalElement>
-          <nodes>
-            <node x="" y="">pyalgotrade.strategy.BaseStrategy</node>
-            <node x="" y="">pyalgotrade.strategy.BacktestingStrategy</node>
-            <node x="" y="">object</node>
-            <node x="" y="">Pyalgotrade_strategy_test1.MyStrategy</node>
-          </nodes>
-          <notes />
-          <edges />
-          <settings layout="Hierarchic Group" zoom="1.0" x="135.0" y="1816.0" />
-          <SelectedNodes />
-          <Categories>
-            <Category>Methods</Category>
-            <Category>Fields</Category>
-          </Categories>
-          <SCOPE>All</SCOPE>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://E:/Programs/Python/Python37-32/Lib/site-packages/pyalgotrade/broker/backtesting.py" />
-    <entry file="file://$PROJECT_DIR$/../pyalgotrade/Event_Listen_Register_Dispatcher.py" />
-    <entry file="file://E:/Programs/Python/Python37-32/Lib/site-packages/pyalgotrade/barfeed/csvfeed.py" />
-    <entry file="file://E:/Programs/Python/Python37-32/Lib/site-packages/pyalgotrade/stratanalyzer/trades.py" />
-    <entry file="file://E:/Programs/Python/Python37-32/Lib/site-packages/pyalgotrade/barfeed/yahoofeed.py" />
-    <entry file="file://E:/Programs/Python/Python37-32/Lib/site-packages/pyalgotrade/broker/__init__.py">
+    <entry file="file://E:/Programs/Python/Python37-32/Lib/typing.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="356">
-          <caret line="343" column="8" selection-start-line="343" selection-start-column="8" selection-end-line="343" selection-end-column="8" />
+        <state relative-caret-position="298">
+          <caret line="427" selection-start-line="427" selection-end-line="427" />
         </state>
       </provider>
     </entry>
-    <entry file="file://E:/Programs/Python/Python37-32/Lib/site-packages/pyalgotrade/technical/macd.py">
+    <entry file="file://$PROJECT_DIR$/New_pyechart_KLine.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="834">
-          <caret line="72" column="29" selection-start-line="72" selection-start-column="29" selection-end-line="72" selection-end-column="29" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://E:/Programs/Python/Python37-32/Lib/site-packages/pyalgotrade/sma_crossover.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="76">
-          <caret line="6" column="8" selection-start-line="6" selection-start-column="8" selection-end-line="6" selection-end-column="8" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://E:/Programs/Python/Python37-32/Lib/abc.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="171">
-          <caret line="9" column="65" lean-forward="true" selection-start-line="9" selection-start-column="65" selection-end-line="9" selection-end-column="65" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$APPLICATION_HOME_DIR$/helpers/typeshed/third_party/3/six/__init__.pyi">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="744">
-          <caret line="102" column="4" selection-start-line="102" selection-start-column="4" selection-end-line="102" selection-end-column="4" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://E:/Programs/Python/Python37-32/Lib/site-packages/pyalgotrade/bitcoincharts/barfeed.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="855">
-          <caret line="50" column="23" selection-start-line="50" selection-start-column="23" selection-end-line="50" selection-end-column="23" />
+        <state relative-caret-position="703">
+          <caret line="39" column="34" selection-start-line="39" selection-start-column="34" selection-end-line="39" selection-end-column="34" />
           <folding>
-            <element signature="e#703#734#0" expanded="true" />
+            <element signature="e#0#19#0" expanded="true" />
           </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/../pyalgotrade/tsfeed_test1.py">
+    <entry file="file://$PROJECT_DIR$/pyalgotrade_event_simulation1.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="891">
-          <caret line="47" column="8" selection-start-line="47" selection-start-column="8" selection-end-line="47" selection-end-column="8" />
+        <state relative-caret-position="209">
+          <caret line="14" column="12" selection-start-line="14" selection-start-column="12" selection-end-line="14" selection-end-column="12" />
           <folding>
-            <element signature="e#17#49#0" expanded="true" />
+            <element signature="e#0#10#0" expanded="true" />
           </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/../pyalgotrade/trace_detail.png">
-      <provider selected="true" editor-type-id="images" />
-    </entry>
-    <entry file="file://E:/Programs/Python/Python37-32/Lib/site-packages/pyalgotrade/bitstamp/livefeed.py">
+    <entry file="file://$PROJECT_DIR$/test99.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="380">
-          <caret line="20" selection-start-line="20" selection-end-line="20" />
+        <state relative-caret-position="323">
+          <caret line="18" selection-start-line="18" selection-end-line="18" selection-end-column="58" />
           <folding>
-            <element signature="e#703#718#0" expanded="true" />
+            <element signature="e#0#19#0" expanded="true" />
           </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://E:/Programs/Python/Python37-32/Lib/site-packages/pyalgotrade/plotter.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-1233">
-          <caret line="371" column="8" selection-start-line="371" selection-start-column="8" selection-end-line="371" selection-end-column="8" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://E:/Programs/Python/Python37-32/Lib/site-packages/pyalgotrade/dataseries/__init__.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="493">
-          <caret line="88" column="8" selection-start-line="88" selection-start-column="8" selection-end-line="88" selection-end-column="8" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://E:/Programs/Python/Python37-32/Lib/site-packages/pyalgotrade/utils/stats.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-155" />
-      </provider>
-    </entry>
-    <entry file="file://E:/Programs/Python/Python37-32/Lib/site-packages/pyalgotrade/stratanalyzer/sharpe.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="216">
-          <caret line="90" column="8" selection-start-line="90" selection-start-column="8" selection-end-line="90" selection-end-column="8" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://E:/Programs/Python/Python37-32/Lib/site-packages/pyalgotrade/stratanalyzer/returns.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="691">
-          <caret line="232" column="8" selection-start-line="232" selection-start-column="8" selection-end-line="232" selection-end-column="8" />
         </state>
       </provider>
     </entry>
     <entry file="file://E:/Programs/Python/Python37-32/Lib/site-packages/pyalgotrade/strategy/__init__.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="159">
-          <caret line="95" column="8" selection-start-line="95" selection-start-column="8" selection-end-line="95" selection-end-column="8" />
+        <state relative-caret-position="10773">
+          <caret line="578" column="4" selection-start-line="578" selection-start-column="4" selection-end-line="578" selection-end-column="53" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$USER_HOME$/.PyCharm2018.3/system/python_stubs/-1930032464/numpy/core/_multiarray_umath.py">
+    <entry file="file://E:/Programs/Python/Python37-32/Lib/site-packages/pyalgotrade/dataseries/__init__.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="843">
-          <caret line="9556" column="8" selection-start-line="9556" selection-start-column="8" selection-end-line="9556" selection-end-column="8" />
+        <state relative-caret-position="679">
+          <caret line="128" column="8" selection-start-line="128" selection-start-column="8" selection-end-line="128" selection-end-column="8" />
         </state>
       </provider>
     </entry>
-    <entry file="file://E:/Programs/Python/Python37-32/Lib/site-packages/pyalgotrade/bar.py">
+    <entry file="file://E:/Programs/Python/Python37-32/Lib/site-packages/pyalgotrade/technical/ma.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="349">
-          <caret line="31" column="84" lean-forward="true" selection-start-line="31" selection-start-column="84" selection-end-line="31" selection-end-column="84" />
+        <state relative-caret-position="215">
+          <caret line="81" column="38" lean-forward="true" selection-start-line="81" selection-start-column="38" selection-end-line="81" selection-end-column="38" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://E:/Programs/Python/Python37-32/Lib/site-packages/pyecharts/charts/basic_charts/bar.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="209">
+          <caret line="14" column="8" selection-start-line="14" selection-start-column="8" selection-end-line="14" selection-end-column="8" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://E:/Programs/Python/Python37-32/Lib/site-packages/pyecharts/charts/base.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-290">
+          <caret line="36" column="13" selection-start-line="36" selection-start-column="13" selection-end-line="36" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://E:/Programs/Python/Python37-32/Lib/site-packages/pyalgotrade/technical/__init__.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="322">
+          <caret line="87" column="38" selection-start-line="87" selection-start-column="38" selection-end-line="87" selection-end-column="38" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://E:/Programs/Python/Python37-32/Lib/site-packages/pyecharts/options/series_options.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="2850">
+          <caret line="152" selection-start-line="152" selection-end-line="153" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://E:/Programs/Python/Python37-32/Lib/site-packages/pyecharts/charts/basic_charts/line.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="627">
+          <caret line="36" column="16" selection-start-line="36" selection-start-column="16" selection-end-line="36" selection-end-column="22" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://E:/Programs/Python/Python37-32/Lib/site-packages/pyalgotrade/bitstamp/livebroker.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-588">
+          <caret line="253" column="8" selection-start-line="253" selection-start-column="8" selection-end-line="253" selection-end-column="8" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://E:/Programs/Python/Python37-32/Lib/site-packages/pyalgotrade/broker/backtesting.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="3687">
+          <caret line="327" column="8" selection-start-line="327" selection-start-column="8" selection-end-line="327" selection-end-column="8" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://E:/Programs/Python/Python37-32/Lib/site-packages/pyecharts/charts/composite_charts/__init__.py">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://E:/Programs/Python/Python37-32/Lib/site-packages/pyecharts/charts/composite_charts/timeline.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
           <folding>
-            <element signature="e#703#713#0" expanded="true" />
+            <element signature="e#0#31#0" expanded="true" />
           </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/../pyalgotrade/test2.py">
+    <entry file="file://E:/Programs/Python/Python37-32/Lib/site-packages/pyecharts/charts/composite_charts/page.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="133">
+          <caret line="7" column="6" selection-start-line="7" selection-start-column="6" selection-end-line="7" selection-end-column="6" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://E:/Programs/Python/Python37-32/Lib/site-packages/pyecharts/charts/basic_charts/kline.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="210">
+          <caret line="23" column="8" selection-start-line="23" selection-start-column="8" selection-end-line="23" selection-end-column="8" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://E:/Programs/Python/Python37-32/Lib/site-packages/pyecharts/charts/__init__.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="254">
+          <caret line="32" lean-forward="true" selection-start-line="32" selection-end-line="32" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://E:/Programs/Python/Python37-32/Lib/site-packages/pyecharts/charts/chart.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="19">
-          <caret line="56" column="52" lean-forward="true" selection-start-line="56" selection-start-column="52" selection-end-line="56" selection-end-column="52" />
+          <caret line="109" column="8" selection-start-line="109" selection-start-column="8" selection-end-line="109" selection-end-column="8" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://E:/Programs/Python/Python37-32/Lib/site-packages/pyalgotrade/plotter.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="432">
+          <caret line="265" column="37" lean-forward="true" selection-start-line="265" selection-start-column="37" selection-end-line="265" selection-end-column="37" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://E:/Programs/Python/Python37-32/Lib/site-packages/pyecharts/charts/composite_charts/grid.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="31">
+          <caret line="24" column="8" selection-start-line="24" selection-start-column="8" selection-end-line="24" selection-end-column="8" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/pyechart_test1.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="570">
+          <caret line="39" column="40" selection-start-line="39" selection-start-column="26" selection-end-line="39" selection-end-column="40" />
           <folding>
-            <element signature="e#0#32#0" expanded="true" />
+            <element signature="e#1#38#0" expanded="true" />
           </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/Class_Super.py">
+    <entry file="file://E:/Programs/Python/Python37-32/Lib/site-packages/pyecharts/options/global_options.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="247">
-          <caret line="15" column="24" selection-start-line="15" selection-start-column="24" selection-end-line="15" selection-end-column="24" />
+        <state relative-caret-position="570">
+          <caret line="461" column="8" selection-start-line="461" selection-start-column="8" selection-end-line="461" selection-end-column="8" />
           <folding>
-            <element signature="e#0#35#0" expanded="true" />
+            <element signature="e#0#58#0" expanded="true" />
           </folding>
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/../pyalgotrade/API_TEST1.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="380">
-          <caret line="47" column="48" lean-forward="true" selection-start-line="47" selection-start-column="48" selection-end-line="47" selection-end-column="48" />
+        <state relative-caret-position="-1121">
           <folding>
             <element signature="e#0#32#0" expanded="true" />
           </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/test1.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="247">
-          <caret line="13" column="18" selection-start-line="13" selection-start-column="18" selection-end-line="13" selection-end-column="18" />
-          <folding>
-            <element signature="e#0#15#0" expanded="true" />
-            <marker date="1546752093969" expanded="true" signature="699:771" ph="..." />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Event_Listen_Register_Dispatcher.py">
+    <entry file="file://$PROJECT_DIR$/../pyalgotrade/tsfeed_test1.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="304">
-          <caret line="16" column="31" lean-forward="true" selection-start-line="16" selection-start-column="31" selection-end-line="16" selection-end-column="31" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Class_as_parameter.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="247">
-          <caret line="13" column="19" selection-start-line="13" selection-start-column="19" selection-end-line="13" selection-end-column="19" />
+          <caret line="24" column="40" lean-forward="true" selection-start-line="24" selection-start-column="40" selection-end-line="24" selection-end-column="40" />
+          <folding>
+            <element signature="e#17#49#0" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/../pyalgotrade/technical_test1.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="285">
-          <caret line="21" selection-start-line="21" selection-end-line="21" />
+        <state>
           <folding>
             <element signature="e#0#32#0" expanded="true" />
           </folding>
@@ -971,95 +914,189 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/../pyalgotrade/stratanalyzer_all_put.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="834">
-          <caret line="63" column="36" selection-start-line="63" selection-start-column="36" selection-end-line="63" selection-end-column="36" />
+        <state relative-caret-position="-342">
           <folding>
             <element signature="e#0#32#0" expanded="true" />
           </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/../pyalgotrade/test1.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="1045">
-          <caret line="55" column="55" selection-start-line="55" selection-start-column="55" selection-end-line="55" selection-end-column="55" />
-          <folding>
-            <element signature="e#0#32#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/PythonCodeRuntime.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="95">
-          <caret line="5" column="25" selection-start-line="5" selection-start-column="25" selection-end-line="5" selection-end-column="25" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/test.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="171">
-          <caret line="9" column="11" selection-start-line="9" selection-start-column="11" selection-end-line="9" selection-end-column="11" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/../pyalgotrade/simple_test1.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="380">
-          <caret line="20" selection-start-line="20" selection-end-line="20" />
-          <folding>
-            <element signature="e#15#47#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
+      <provider selected="true" editor-type-id="text-editor" />
     </entry>
-    <entry file="file://$PROJECT_DIR$/../pyalgotrade/Pyalgotrade_strategy_test1.py">
+    <entry file="file://$PROJECT_DIR$/../pyalgotrade/mean.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="247">
-          <caret line="13" column="34" selection-start-line="13" selection-start-column="34" selection-end-line="13" selection-end-column="34" />
-          <folding>
-            <element signature="e#0#32#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/test2.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="76">
-          <caret line="4" column="36" selection-start-line="4" selection-start-column="36" selection-end-line="4" selection-end-column="36" />
-          <folding>
-            <element signature="e#1#21#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/trace_detail.png">
-      <provider selected="true" editor-type-id="images" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Tushare_jiaoyi.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="415">
-          <caret line="32" column="13" selection-start-line="32" selection-start-column="13" selection-end-line="32" selection-end-column="16" />
+        <state relative-caret-position="133">
+          <caret line="7" selection-start-line="7" selection-end-line="7" selection-end-column="48" />
           <folding>
             <element signature="e#0#19#0" expanded="true" />
           </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/../pyalgotrade/Get_Tushare_To_CSV.py">
+    <entry file="file://E:/Programs/Python/Python37-32/Lib/site-packages/pyalgotrade/dataseries/bards.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="171">
-          <caret line="9" column="54" selection-start-line="9" selection-start-column="54" selection-end-line="9" selection-end-column="54" />
+        <state relative-caret-position="328">
+          <caret line="101" column="8" selection-start-line="101" selection-start-column="8" selection-end-line="101" selection-end-column="8" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../pyalgotrade/MyStrategy1.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-399">
+          <caret line="12" column="30" lean-forward="true" selection-start-line="12" selection-start-column="30" selection-end-line="12" selection-end-column="30" />
+          <folding>
+            <element signature="e#0#32#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../pyalgotrade/test2.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="304">
+          <caret line="16" column="21" lean-forward="true" selection-start-line="16" selection-start-column="21" selection-end-line="16" selection-end-column="21" />
+          <folding>
+            <element signature="e#0#32#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../pyalgotrade/test3.py" />
+    <entry file="file://$PROJECT_DIR$/../pyalgotrade/Pyalgotrade_strategy_test1.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="475">
+          <caret line="31" column="39" selection-start-line="31" selection-start-column="39" selection-end-line="31" selection-end-column="39" />
+          <folding>
+            <element signature="e#0#32#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../pyalgotrade/download_all_shares_60min.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="152">
+          <caret line="19" column="27" lean-forward="true" selection-start-line="19" selection-start-column="27" selection-end-line="19" selection-end-column="27" />
+          <folding>
+            <element signature="e#0#19#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../pyalgotrade/Mytrade1.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <folding>
+            <element signature="e#0#36#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../pyalgotrade/test1.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="494">
+          <caret line="67" column="16" lean-forward="true" selection-start-line="67" selection-start-column="16" selection-end-line="67" selection-end-column="16" />
+          <folding>
+            <element signature="e#0#32#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../pyalgotrade/Tushare_Get_API_Test.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="475">
+          <caret line="27" column="21" selection-start-line="27" selection-start-column="21" selection-end-line="27" selection-end-column="21" />
           <folding>
             <element signature="e#0#20#0" expanded="true" />
           </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/volume_price_pyechart.py">
+    <entry file="file://E:/Programs/Python/Python37-32/Lib/site-packages/pyalgotrade/broker/__init__.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="358">
-          <caret line="24" column="58" selection-start-line="24" selection-start-column="58" selection-end-line="24" selection-end-column="58" />
+        <state relative-caret-position="3345">
+          <caret line="343" column="8" selection-start-line="343" selection-start-column="8" selection-end-line="343" selection-end-column="8" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../pyalgotrade/trade_day_html.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-926">
+          <caret line="86" column="35" lean-forward="true" selection-start-line="86" selection-start-column="35" selection-end-line="86" selection-end-column="35" />
+          <folding>
+            <element signature="e#0#32#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../pyalgotrade/trade_min.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="361">
+          <caret line="41" column="81" lean-forward="true" selection-start-line="41" selection-start-column="81" selection-end-line="41" selection-end-column="95" />
+          <folding>
+            <element signature="e#0#32#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../pyalgotrade/Get_Tushare_To_CSV.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="380">
+          <caret line="22" column="45" lean-forward="true" selection-start-line="22" selection-start-column="45" selection-end-line="22" selection-end-column="45" />
+          <folding>
+            <element signature="e#0#20#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../pyalgotrade/Get_Tushare_To_CSV_min_pro_bar.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="309">
+          <caret line="19" selection-start-line="19" selection-end-line="20" selection-end-column="51" />
+          <folding>
+            <element signature="e#0#20#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://E:/Programs/Python/Python37-32/Lib/site-packages/pyalgotrade/bar.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1216">
+          <caret line="66" column="19" selection-start-line="66" selection-start-column="7" selection-end-line="66" selection-end-column="19" />
+          <folding>
+            <element signature="e#703#713#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../pyalgotrade/read_write_csv_test.py">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../pyalgotrade/OneKey_Trade_Day.py">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../pyalgotrade/shares_list.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <folding>
+            <element signature="e#0#20#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../pyalgotrade/trade_day.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="513">
+          <caret line="78" column="84" lean-forward="true" selection-start-line="78" selection-start-column="84" selection-end-line="78" selection-end-column="84" />
+          <folding>
+            <element signature="e#0#32#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../pyalgotrade/download_all_shares_data.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="380">
+          <caret line="23" column="9" selection-start-line="23" selection-start-column="9" selection-end-line="23" selection-end-column="9" />
           <folding>
             <element signature="e#0#19#0" expanded="true" />
           </folding>

@@ -1,7 +1,6 @@
 import pandas as pd
-from pyecharts import Line,Overlap
-from pyecharts.charts import Line
-# 显示所有列
+from pyecharts import Line,Kline,Overlap
+#显示所有列
 pd.set_option('display.max_columns', None)
 #显示所有行
 pd.set_option('display.max_rows', None)
@@ -17,15 +16,37 @@ df1['Date']=df1['Date'].apply(str)
 df1['Date']=df1['Date'].map(lambda x :'%s/%s/%s'%(x[0:4],x[4:6],x[6:8]))
 
 #倒序排列
-df1=df1.sort_index(ascending=False)
-
+df1=df1.sort_index(ascending=False).reset_index(drop=True)
 print(df1)
-line1 =Line('折线图',background_color = 'white',title_text_size = 25)
-line2 =Line('折线图',background_color = 'white',title_text_size = 25)
-line1.add('收盘价',df1.Date,df1.Close, is_datazoom_show=True)
-line2.add('成交量',df1.Date,df1.Volume, is_datazoom_show=True)
+
+date=df1.Date.tolist()
+data=[]
+for idx in df1.index :
+     row=[df1.iloc[idx]['Open'],df1.iloc[idx]['Close'],df1.iloc[idx]['Low'],df1.iloc[idx]['High']]
+     data.append(row)
+
+# data=data.reverse()
+print(data)
+line =Line('图示',background_color = 'white',title_text_size = 25)
+line.add('成交量',df1.Date,df1.Volume, is_datazoom_show=True)
+
+
+
+kline = Kline()
+kline.add(
+    "K线",
+    date,
+    data,
+    mark_point=["max"],
+    is_datazoom_show=True,
+)
+
+
+
 overlap = Overlap()
-overlap.add(line1)
-overlap.add(line2,is_add_yaxis=True,yaxis_index=1)
+overlap.add(line)
+overlap.add(kline,is_add_yaxis=True,yaxis_index=1)
+
+
 overlap.render()
 overlap.render(path = 'D:\\折线图.html')

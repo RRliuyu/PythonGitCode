@@ -12,6 +12,7 @@ def parse_date(date):
     return ret
 
 # 读出数据，DataFrame格式
+
 df = pd.read_csv('E:/PythonData/Tushare/000938.csv')
 # 从df中选取数据段，改变段名；新段'Adj Close'使用原有段'close'的数据
 df2 = pd.DataFrame({'Date' : df['trade_date'], 'Open' : df['open'],
